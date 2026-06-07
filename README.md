@@ -102,13 +102,14 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harsh-Bajpai-1194/Harsh-Bajpai-1194/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
 </picture>
+
+##
+> 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas in cloud computing.._
 
 
 ---
