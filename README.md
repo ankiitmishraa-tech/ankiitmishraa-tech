@@ -18,6 +18,14 @@ I enjoy understanding how applications work, exploring security concepts, and le
 
 My goal is to build practical skills through continuous learning, hands-on labs, and documented projects.
 
+<p align="center">
+  <img
+    src="./assets/cyber-character.gif"
+    width="280"
+    alt="Animated Cybersecurity Character"
+  />
+</p>
+
 ---
 
 <p align="center">
