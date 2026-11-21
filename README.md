@@ -100,7 +100,7 @@ I focus on learning and testing within authorized environments.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:101B33,100:0077B6&text=PROJECTS%20%26%20EXPERIMENTS&fontSize=24&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://img.shields.io/badge/PROJECTS_%26_EXPERIMENTS-101B33?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0077B6" />
 </p>
 
 This GitHub is my technical workspace — a place to build, experiment, document and improve.
