@@ -19,11 +19,7 @@ I enjoy understanding how applications work, exploring security concepts, and le
 My goal is to build practical skills through continuous learning, hands-on labs, and documented projects.
 
 <p align="center">
-  <img
-    src="./assets/cyber-character.gif"
-    width="280"
-    alt="Animated Cybersecurity Character"
-  />
+  <img src="./assets/cyber-character.gif" width="280" alt="Ankit's animated cybersecurity character" />
 </p>
 
 ---
@@ -50,11 +46,11 @@ My goal is to build practical skills through continuous learning, hands-on labs,
 ### Security & Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-Exploring-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-Exploring-00549E?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Exploring-4A90A4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Postman-Exploring-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-Learning-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Exploring-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-Exploring-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Exploring-4A90A4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-Exploring-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ### Development & Fundamentals
