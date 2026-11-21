@@ -19,13 +19,13 @@ I enjoy understanding how applications work, exploring security concepts, and le
 My goal is to build practical skills through continuous learning, hands-on labs, and documented projects.
 
 <p align="center">
-  <img src="./assets/cyber-character.gif" width="280" alt="Ankit's animated cybersecurity character" />
+  <img src="./assets/cyber-character.gif" width="280" alt="Animated Cybersecurity Character" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=01%20%7C%20AREAS%20OF%20INTEREST&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=AREAS%20OF%20INTEREST&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ My goal is to build practical skills through continuous learning, hands-on labs,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=02%20%7C%20MY%20TOOLKIT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=MY%20TOOLKIT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 ### Security & Testing
@@ -48,7 +48,7 @@ My goal is to build practical skills through continuous learning, hands-on labs,
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-Exploring-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-Exploring-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Exploring-4A90A4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Exploring-4A90A4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-Exploring-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
@@ -68,7 +68,7 @@ My goal is to build practical skills through continuous learning, hands-on labs,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=03%20%7C%20CURRENT%20FOCUS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=CURRENT%20FOCUS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -84,13 +84,13 @@ My goal is to build practical skills through continuous learning, hands-on labs,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=04%20%7C%20RESEARCH%20MINDSET&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=RESEARCH%20MINDSET&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/THINK-CRITICALLY-101B33?style=for-the-badge&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/TEST-RESPONSIBLY-101B33?style=for-the-badge&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-101B33?style=for-the-badge&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/THINK-CRITICALLY-101B33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TEST-RESPONSIBLY-101B33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-101B33?style=for-the-badge" />
 </p>
 
 I believe security research is not just about finding weaknesses. It's also about understanding impact, respecting authorization, protecting sensitive information, and reporting findings responsibly.
@@ -100,7 +100,7 @@ I focus on learning and testing within authorized environments.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=05%20%7C%20PROJECTS%20%26%20EXPERIMENTS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=PROJECTS%20%26%20EXPERIMENTS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 This GitHub is my technical workspace — a place to build, experiment, document and improve.
@@ -120,7 +120,7 @@ This GitHub is my technical workspace — a place to build, experiment, document
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=06%20%7C%20GITHUB%20ACTIVITY&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=GITHUB%20ACTIVITY&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ This GitHub is my technical workspace — a place to build, experiment, document
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=07%20%7C%20LET'S%20CONNECT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=LET'S%20CONNECT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
