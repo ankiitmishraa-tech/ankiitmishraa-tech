@@ -100,7 +100,7 @@ I focus on learning and testing within authorized environments.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B33,100:0077B6&height=65&section=header&text=PROJECTS%20%26%20EXPERIMENTS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:101B33,100:0077B6&text=PROJECTS%20%26%20EXPERIMENTS&fontSize=24&fontColor=00D9FF&animation=fadeIn" width="100%" />
 </p>
 
 This GitHub is my technical workspace — a place to build, experiment, document and improve.
